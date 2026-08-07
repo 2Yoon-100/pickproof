@@ -9,3 +9,4 @@
 {"date": "2026-08-05", "file": "2026-08-05_1600.json", "sha256": "333fc8f699e94cb5eb35d249b6a4a2a15388d2877ba344e643b4632063df873a", "rules_version": "20260805.ac840b33"}
 {"date": "2026-08-06", "file": "2026-08-06_1600.json", "sha256": "0f3555c2b47d2f2adc0a46e62f07fd368e3f7a2510fdbedebffa9128bc17f1cd", "rules_version": "20260805.3df0d26b"}
 {"date": "2026-08-07", "file": "2026-08-07_1600.json", "sha256": "b8dfc796fe96454f0ca800b879ad668c8c31470492564cce37b70fe8e656b6b8", "rules_version": "20260805.3df0d26b"}
+{"date": "2026-08-07", "file": "2026-08-07_2023.json", "sha256": "3f3a5bd604eaa6b42faa9bd526718ddae5d3e3a3fd7f16e8272b3ea43bb1f02f", "rules_version": "20260805.3df0d26b"}
