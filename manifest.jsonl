@@ -23,3 +23,4 @@
 {"date": "2026-08-11", "file": "2026-08-11_0340.json", "sha256": "2bd4ed65f1cb7b9a359d73a7b4d27c29b930e68bd36adf67574eb568ecc31669", "rules_version": "20260808.0378d9a5"}
 {"date": "2026-08-11", "file": "2026-08-11_0940.json", "sha256": "49a5ee518a844d9580b14430ec67ed5f979b8bf5b3438be337b372eb82abfb22", "rules_version": "20260808.0378d9a5"}
 {"date": "2026-08-11", "file": "2026-08-11_1540.json", "sha256": "5d2c3b356b7c7340831d3c2f7fad280c36a13b7ca0e89bfa678f54bce3b94217", "rules_version": "20260808.0378d9a5"}
+{"date": "2026-08-12", "file": "2026-08-12_0340.json", "sha256": "1f96f98e7527c9a2651cb97df7f6168391fa4a3cb30e47d56836882ca1006a0b", "rules_version": "20260811.6819c965"}
