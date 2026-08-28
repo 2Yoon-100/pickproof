@@ -85,3 +85,4 @@
 {"date": "2026-08-28", "file": "2026-08-28_0940.json", "sha256": "7d078ba53859ae23f875959a30d08af890d55725ceaa30653f4432cc81adda3d", "rules_version": "20260822.9ae0b57e"}
 {"date": "2026-08-28", "file": "2026-08-28_1540.json", "sha256": "7962c17d66e77b89e7ef2b4fda5798722d816bbd1bf8d4ede74b389d4613fa25", "rules_version": "20260828.a36ec4a9"}
 {"date": "2026-08-28", "file": "2026-08-28_2140.json", "sha256": "43af6e19f2a0f9b179a18b3eda34aae5842af909e3d0ca804f29b47ef5b2eea5", "rules_version": "20260828.a36ec4a9"}
+{"date": "2026-08-29", "file": "2026-08-29_0340.json", "sha256": "d16edaa3416743c70096e438ca35963e3b56b3b07b7e8fdd527ae56b4fe36121", "rules_version": "20260828.a36ec4a9"}
