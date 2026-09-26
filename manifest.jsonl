@@ -191,3 +191,4 @@
 {"date": "2026-09-25", "file": "2026-09-25_1540.json", "sha256": "7501d68d2209330fc24658cb79339642c8bbbe99426238e907db6f709dcf6305", "rules_version": "20260924.19da58b0"}
 {"date": "2026-09-25", "file": "2026-09-25_2140.json", "sha256": "a80b5159eef4d1037310af73ea0ed7a79a0ace1fde5e7137bb9e558b915e43a7", "rules_version": "20260925.155f15ae"}
 {"date": "2026-09-26", "file": "2026-09-26_0340.json", "sha256": "0e18bc5eda6ee31a521b547c60ee7799ca8ba4c4d6c59b283a96aa112fd8078f", "rules_version": "20260925.155f15ae"}
+{"date": "2026-09-26", "file": "2026-09-26_0940.json", "sha256": "471960379b44a32b0b4cc0b87938be5611f701fe7654a392c98e83a9a9099f8a", "rules_version": "20260925.155f15ae"}
