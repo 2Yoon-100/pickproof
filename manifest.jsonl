@@ -371,3 +371,4 @@
 {"date": "2026-11-12", "file": "2026-11-12_1540.json", "sha256": "964d29c1b5db99cd279113fae38dc17a6e9d72cab8e0aadb7bc0a0733bb349d0", "rules_version": "20261111.f04a1548"}
 {"date": "2026-11-12", "file": "2026-11-12_2140.json", "sha256": "c40cc1ccc77eb7c914279241616e699ec16a6dc9b1cb0ba76a4742e714c6b87f", "rules_version": "20261112.612e4fae"}
 {"date": "2026-11-13", "file": "2026-11-13_0340.json", "sha256": "a06ac310fc782e65a07ae76ae5c68349c4f4ec01279a2007e01a486923bc7dfa", "rules_version": "20261112.612e4fae"}
+{"date": "2026-11-13", "file": "2026-11-13_0940.json", "sha256": "cd9f89e1bd37806dd3dc7a5149260f397be85df5a06bb4e4ec4a6ea1d7cf1550", "rules_version": "20261112.612e4fae"}
